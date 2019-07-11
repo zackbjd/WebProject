@@ -1,0 +1,83 @@
+
+
+
+html{
+	background-image: url("epc.jpg");
+	background-size: cover;
+}
+body{
+	width:1450px;
+	background-color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	background-color: white;
+	margin: 1em auto;
+	border: 2px solid #B0C4DE;
+	
+}
+header{
+	border: 2px solid #B0C4DE;
+	padding-bottom: 100px;
+}
+header img{
+	float: right;
+	
+}
+
+header h2{
+	font-family: Archivo; 
+	text-align: center;
+	font-size: 300%;
+	text-shadow: 2px 2px #B0C4DE;
+}
+
+footer{	
+	clear: both;
+	border-top: 2px solid #B0C4DE;
+}
+
+footer p {
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+a.nav {
+	text-decoration: none;
+	line-height: 20px; font-size: 25px
+}
+
+a.nav:hover{
+	transition: color 0.5s;
+	color: black;
+	font-size: 30px;		
+}
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	transition: color 0.5s;
+	color: black;
+}
+
+nav{
+	text-align: center;
+	border-top: 2px solid #B0C4DE;
+	font-size: 150%;
+	
+}
+
+
+
+a.selected{
+	text-decoration: none;
+}
+
+
+/* div { */
+/*     display: inline; */
+/* } */
+
+
+
